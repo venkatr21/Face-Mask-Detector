@@ -1,0 +1,4 @@
+dataset/training_set/mask/*
+dataset/test_set/mask/*
+dataset/training_set/nomask/*
+dataset/test_set/nomask/*
